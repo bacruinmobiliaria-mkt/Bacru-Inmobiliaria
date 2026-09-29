@@ -1,0 +1,29 @@
+[
+  {
+    "id": "seed-rodriguez",
+    "nombre": "Familia Rodríguez",
+    "zona": "Mixquiahuala",
+    "texto": "Encontramos nuestra casa en menos de 2 semanas. Rosita nos guió en todo el proceso con INFONAVIT sin ningún problema.",
+    "videoUrl": "",
+    "rating": 5,
+    "fecha": "2026-01-15T12:00:00.000Z"
+  },
+  {
+    "id": "seed-carlos",
+    "nombre": "Carlos y María",
+    "zona": "Pachuca",
+    "texto": "El proceso fue clarísimo. Nos explicaron todo paso a paso y nos ayudaron con los documentos. ¡Ya llevamos 1 año en nuestra casa!",
+    "videoUrl": "",
+    "rating": 5,
+    "fecha": "2026-01-10T12:00:00.000Z"
+  },
+  {
+    "id": "seed-hernandez",
+    "nombre": "Familia Hernández",
+    "zona": "Tepatepec",
+    "texto": "Personalizamos nuestra casa según nuestras necesidades. Edwin estuvo presente en toda la obra. Muy profesionales.",
+    "videoUrl": "",
+    "rating": 5,
+    "fecha": "2026-01-05T12:00:00.000Z"
+  }
+]

@@ -1,0 +1,20 @@
+# dependencias y builds
+node_modules/
+.next/
+out/
+
+# SECRETOS: nunca subir a GitHub
+.env
+.env.local
+.env.*.local
+.vercel
+
+# datos que solo se generan en tu PC (en Vercel viven en la base de datos)
+content/leads.json
+content/admins.json
+public/uploads/
+
+# sistema
+.DS_Store
+*.log
+next-env.d.ts

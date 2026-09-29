@@ -1,0 +1,93 @@
+[
+  {
+    "id": "eros",
+    "name": "Eros Atzin Martínez",
+    "role": "Asesor & Marketing",
+    "whatsapp": "527731781212",
+    "zones": [
+      "Pachuca"
+    ],
+    "photo": "/images/team/eros-nobg.png",
+    "specialty": "Marketing Digital"
+  },
+  {
+    "id": "edwin",
+    "name": "Edwin Orta",
+    "role": "Asesor de Ventas",
+    "whatsapp": "527736801410",
+    "zones": [
+      "Tepatepec",
+      "San Antonio"
+    ],
+    "photo": "/images/team/edwin-nobg.png",
+    "specialty": "Zona Tepatepec"
+  },
+  {
+    "id": "karla",
+    "name": "Karla Orta",
+    "role": "Asesor de Ventas",
+    "whatsapp": "527736801410",
+    "zones": [
+      "Tepatepec",
+      "San Antonio"
+    ],
+    "photo": "/images/team/karla-nobg.png",
+    "specialty": "Zona Tepatepec"
+  },
+  {
+    "id": "rosita",
+    "name": "Rosita",
+    "role": "Asesor de Ventas",
+    "whatsapp": "527296240225",
+    "zones": [
+      "Mixquiahuala",
+      "Progreso de Obregón"
+    ],
+    "photo": "/images/team/rosita-nobg.png",
+    "specialty": "Zona Valle"
+  },
+  {
+    "id": "miguel",
+    "name": "Miguel Bautista Skinfield",
+    "role": "Asesor de Ventas",
+    "whatsapp": "527713487524",
+    "zones": [
+      "Pachuca"
+    ],
+    "photo": "/images/team/miguel-nobg.png",
+    "specialty": "Zona Pachuca"
+  },
+  {
+    "id": "carlos",
+    "name": "Carlos Orta",
+    "role": "Director General",
+    "whatsapp": "527736801410",
+    "zones": [
+      "Todas"
+    ],
+    "photo": "/images/team/carlos-nobg.png",
+    "specialty": "Dirección & Estrategia"
+  },
+  {
+    "id": "jose",
+    "name": "José Antonio Bautista",
+    "role": "Asesor de Ventas",
+    "whatsapp": "527711551965",
+    "zones": [
+      "Pachuca"
+    ],
+    "photo": "/images/team/jose-nobg.png",
+    "specialty": "Zona Pachuca"
+  },
+  {
+    "id": "teo",
+    "name": "Teo",
+    "role": "Asesor de Ventas",
+    "whatsapp": "527711162801",
+    "zones": [
+      "Pachuca"
+    ],
+    "photo": "/images/team/teo-nobg.png",
+    "specialty": "Catálogo Digital"
+  }
+]
